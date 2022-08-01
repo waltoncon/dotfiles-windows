@@ -1,0 +1,42 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "Sources": [
+        {
+            "Packages": [
+                { "PackageIdentifier": "7zip.7zip" },
+                { "PackageIdentifier": "AltSnap.AltSnap" },
+                { "PackageIdentifier": "Audacity.Audacity" },
+                { "PackageIdentifier": "DBBrowserForSQLite.DBBrowserForSQLite" },
+                { "PackageIdentifier": "Docker.DockerDesktop" },
+                { "PackageIdentifier": "GIMP.GIMP" },
+                { "PackageIdentifier": "Google.Chrome.Beta" },
+                { "PackageIdentifier": "Google.Chrome" },
+                { "PackageIdentifier": "Google.Drive" },
+                { "PackageIdentifier": "HandBrake.HandBrake" },
+                { "PackageIdentifier": "Inkscape.Inkscape" },
+                { "PackageIdentifier": "JetBrains.Toolbox" },
+                { "PackageIdentifier": "Microsoft.Edge" },
+                { "PackageIdentifier": "Microsoft.PowerShell" },
+                { "PackageIdentifier": "Microsoft.PowerToys" },
+                { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+                { "PackageIdentifier": "Microsoft.WindowsTerminal" },
+                { "PackageIdentifier": "Mozilla.Firefox" },
+                { "PackageIdentifier": "NVAccess.NVDA" },
+                { "PackageIdentifier": "OBSProject.OBSStudio" },
+                { "PackageIdentifier": "Postman.Postman" },
+                { "PackageIdentifier": "ShareX.ShareX" },
+                { "PackageIdentifier": "Sinew.Enpass" },
+                { "PackageIdentifier": "Starship.Starship" },
+                { "PackageIdentifier": "TimKosse.FileZilla.Client" },
+                { "PackageIdentifier": "VideoLAN.VLC" },
+                { "PackageIdentifier": "WinDirStat.WinDirStat" }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}
